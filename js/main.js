@@ -30,35 +30,35 @@ window.onscroll = () => {
   if (window.scrollY >= 1500) {
     showEle(document.querySelector('.counter'));
   }
-  if (window.scrollY >= 1650) {
+  if (window.scrollY >= 1700) {
     showEle(document.querySelector('.services'));
     active(navbarLinks[2]);
   }
-  if (window.scrollY >= 2600) {
+  if (window.scrollY >= 2650) {
     showEle(document.querySelector('.features'));
   }
-  if (window.scrollY >= 3800) {
+  if (window.scrollY >= 3850) {
     showEle(document.querySelector('.portfolio'));
     active(navbarLinks[3]);
   }
-  if (window.scrollY >= 5350) {
+  if (window.scrollY >= 5400) {
     showEle(document.querySelector('.pricing'));
     active(navbarLinks[4]);
   }
   if (window.scrollY >= 6350) {
     showEle(document.querySelector('.questions'));
   }
-  if (window.scrollY >= 7150) {
+  if (window.scrollY >= 7200) {
     showEle(document.querySelector('.team'));
     active(navbarLinks[5]);
   }
-  if (window.scrollY >= 8450) {
+  if (window.scrollY >= 8500) {
     showEle(document.querySelector('.action'));
   }
-  if (window.scrollY >= 8750) {
+  if (window.scrollY >= 8800) {
     showEle(document.querySelector('.testimonials'));
   }
-  if (window.scrollY >= 9250) {
+  if (window.scrollY >= 9300) {
     showEle(document.querySelector('.posts'));
     active(navbarLinks[6]);
   }
